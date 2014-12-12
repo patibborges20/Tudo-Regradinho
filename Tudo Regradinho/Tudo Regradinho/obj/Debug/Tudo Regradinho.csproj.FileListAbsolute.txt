@@ -1,0 +1,56 @@
+c:\users\pati\documents\visual studio 2013\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\pati\documents\visual studio 2013\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\pati\documents\visual studio 2013\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\pati\documents\visual studio 2013\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\pati\documents\visual studio 2013\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\pati\documents\visual studio 2013\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\pati\documents\visual studio 2013\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\Tudo Regradinho.dll
+c:\users\pati\documents\visual studio 2013\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\Tudo Regradinho.pdb
+c:\users\pati\documents\visual studio 2013\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\AppManifest.xaml
+c:\users\pati\documents\visual studio 2013\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\pati\documents\visual studio 2013\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\Tudo_Regradinho_Debug_AnyCPU.xap
+c:\users\pati\documents\visual studio 2013\Projects\Tudo Regradinho\Tudo Regradinho\obj\Debug\App.g.cs
+c:\users\pati\documents\visual studio 2013\Projects\Tudo Regradinho\Tudo Regradinho\obj\Debug\MainPage.g.cs
+c:\users\pati\documents\visual studio 2013\Projects\Tudo Regradinho\Tudo Regradinho\obj\Debug\Tudo Regradinho.g.resources
+c:\users\pati\documents\visual studio 2013\Projects\Tudo Regradinho\Tudo Regradinho\obj\Debug\Tudo_Regradinho.Resources.AppResources.resources
+c:\users\pati\documents\visual studio 2013\Projects\Tudo Regradinho\Tudo Regradinho\obj\Debug\Tudo Regradinho.csproj.GenerateResource.Cache
+c:\users\pati\documents\visual studio 2013\Projects\Tudo Regradinho\Tudo Regradinho\obj\Debug\Tudo Regradinho.dll
+c:\users\pati\documents\visual studio 2013\Projects\Tudo Regradinho\Tudo Regradinho\obj\Debug\Tudo Regradinho.pdb
+c:\users\pati\documents\visual studio 2013\Projects\Tudo Regradinho\Tudo Regradinho\obj\Debug\XapCacheFile.xml
+C:\Users\patricia\Desktop\BACKU PATI\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\patricia\Desktop\BACKU PATI\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\patricia\Desktop\BACKU PATI\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\patricia\Desktop\BACKU PATI\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\patricia\Desktop\BACKU PATI\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\patricia\Desktop\BACKU PATI\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\patricia\Desktop\BACKU PATI\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\Tudo Regradinho.dll
+C:\Users\patricia\Desktop\BACKU PATI\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\Tudo Regradinho.pdb
+C:\Users\patricia\Desktop\BACKU PATI\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\AppManifest.xaml
+C:\Users\patricia\Desktop\BACKU PATI\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\Tudo_Regradinho_Debug_AnyCPU.xap
+C:\Users\patricia\Desktop\BACKU PATI\Projects\Tudo Regradinho\Tudo Regradinho\obj\Debug\App.g.cs
+C:\Users\patricia\Desktop\BACKU PATI\Projects\Tudo Regradinho\Tudo Regradinho\obj\Debug\MainPage.g.cs
+C:\Users\patricia\Desktop\BACKU PATI\Projects\Tudo Regradinho\Tudo Regradinho\obj\Debug\Tudo Regradinho.g.resources
+C:\Users\patricia\Desktop\BACKU PATI\Projects\Tudo Regradinho\Tudo Regradinho\obj\Debug\Tudo_Regradinho.Resources.AppResources.resources
+C:\Users\patricia\Desktop\BACKU PATI\Projects\Tudo Regradinho\Tudo Regradinho\obj\Debug\Tudo Regradinho.csproj.GenerateResource.Cache
+C:\Users\patricia\Desktop\BACKU PATI\Projects\Tudo Regradinho\Tudo Regradinho\obj\Debug\Tudo Regradinho.dll
+C:\Users\patricia\Desktop\BACKU PATI\Projects\Tudo Regradinho\Tudo Regradinho\obj\Debug\Tudo Regradinho.pdb
+C:\Users\patricia\Desktop\BACKU PATI\Projects\Tudo Regradinho\Tudo Regradinho\obj\Debug\XapCacheFile.xml
+C:\Users\patricia\Documents\Visual Studio 2012\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\patricia\Documents\Visual Studio 2012\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\patricia\Documents\Visual Studio 2012\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\patricia\Documents\Visual Studio 2012\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\patricia\Documents\Visual Studio 2012\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\patricia\Documents\Visual Studio 2012\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\patricia\Documents\Visual Studio 2012\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\Tudo Regradinho.dll
+C:\Users\patricia\Documents\Visual Studio 2012\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\Tudo Regradinho.pdb
+C:\Users\patricia\Documents\Visual Studio 2012\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\AppManifest.xaml
+C:\Users\patricia\Documents\Visual Studio 2012\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\patricia\Documents\Visual Studio 2012\Projects\Tudo Regradinho\Tudo Regradinho\Bin\Debug\Tudo_Regradinho_Debug_AnyCPU.xap
+C:\Users\patricia\Documents\Visual Studio 2012\Projects\Tudo Regradinho\Tudo Regradinho\obj\Debug\App.g.cs
+C:\Users\patricia\Documents\Visual Studio 2012\Projects\Tudo Regradinho\Tudo Regradinho\obj\Debug\MainPage.g.cs
+C:\Users\patricia\Documents\Visual Studio 2012\Projects\Tudo Regradinho\Tudo Regradinho\obj\Debug\Tudo Regradinho.g.resources
+C:\Users\patricia\Documents\Visual Studio 2012\Projects\Tudo Regradinho\Tudo Regradinho\obj\Debug\Tudo_Regradinho.Resources.AppResources.resources
+C:\Users\patricia\Documents\Visual Studio 2012\Projects\Tudo Regradinho\Tudo Regradinho\obj\Debug\Tudo Regradinho.csproj.GenerateResource.Cache
+C:\Users\patricia\Documents\Visual Studio 2012\Projects\Tudo Regradinho\Tudo Regradinho\obj\Debug\Tudo Regradinho.dll
+C:\Users\patricia\Documents\Visual Studio 2012\Projects\Tudo Regradinho\Tudo Regradinho\obj\Debug\Tudo Regradinho.pdb
+C:\Users\patricia\Documents\Visual Studio 2012\Projects\Tudo Regradinho\Tudo Regradinho\obj\Debug\XapCacheFile.xml
